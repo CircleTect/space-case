@@ -7,9 +7,9 @@
 
 #### - Tube material types
 
-In order of preference.
+Recommended to buy 3 x 1000mm lengths and cut to length with a hand-saw / coping saw / drop saw / bandsaw, etc.  This is the most optimal length for shipping and minimising off-cuts. 
 
-Recommended to buy 3 x 1000mm lengths. Most optimal length for shipping and minimising off-cuts. 
+Tube material types in order of preference:
 
 * **Carbon fibre - wrapped.** Best looking, but most expensive. <br>
 [Purchase link 1 - eBay Aus](https://www.ebay.com.au/itm/142235086258?mkcid=16&mkevt=1&mkrid=705-154756-20017-0&ssspo=4iKInTStQem&sssrc=2047675&ssuid=ve_wgjvYRiW&widget_ver=artemis&media=COPY),
@@ -23,13 +23,16 @@ Recommended to buy 3 x 1000mm lengths. Most optimal length for shipping and mini
 
 ## 02. Screw hardware
 
-* M3x10mm screws  **QTY 50**
-* M3 nuts  **QTY 50**
+* M3x10mm screws  **QTY 50** [Example link](https://a.co/d/0MslMnX)
+* M3 nuts  **QTY 50** [Example link](https://a.co/d/hjAK4r9)
 
 ## 03. I/O Panels
 
-* Standard USB 2 'Cheap eBay #1' I/O: 2 x USB A 2.0, Audio in - Audio out [Link](https://www.ebay.com.au/itm/385105460696?mkcid=16&mkevt=1&mkrid=705-154756-20017-0&ssspo=t3gvi9virg6&sssrc=2047675&ssuid=ve_wgjvYRiW&widget_ver=artemis&media=COPY)
-* Standard USB 3 'Cheap eBay #2' I/O: 2 x USB A 3.0, Audio in - Audio out [Link](https://www.ebay.com.au/itm/224887554100?mkcid=16&mkevt=1&mkrid=705-154756-20017-0&ssspo=5g9LL4MwRUa&sssrc=2047675&ssuid=ve_wgjvYRiW&widget_ver=artemis&media=COPY)
+* Standard USB 2 'Cheap eBay #1' I/O: 2 x USB A 2.0, Audio in - Audio out [Example link](https://www.ebay.com.au/itm/385105460696?mkcid=16&mkevt=1&mkrid=705-154756-20017-0&ssspo=t3gvi9virg6&sssrc=2047675&ssuid=ve_wgjvYRiW&widget_ver=artemis&media=COPY)
+* Standard USB 3 'Cheap eBay #2' I/O: 2 x USB A 3.0, Audio in - Audio out [Example link](https://www.ebay.com.au/itm/224887554100?mkcid=16&mkevt=1&mkrid=705-154756-20017-0&ssspo=5g9LL4MwRUa&sssrc=2047675&ssuid=ve_wgjvYRiW&widget_ver=artemis&media=COPY)
 
+## 04. Power switch
 
+* Momentary Push Button Switch SPST - Option 1 - Amazon [Example link](https://a.co/d/1EaQnkM)
+* Momentary Push Button Switch Metal Chassis - Option 2 with light - Amazon [Example link](https://a.co/d/cJvIqA9)
 
