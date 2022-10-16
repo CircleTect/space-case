@@ -19,7 +19,7 @@
 
 The Space Case is a mini-itx case that is easy to build at home with a 3d printer and off-the-shelf components. 
 
-[Video Introduction](https://www.youtube.com/watch?v=Zg2zSBpEYaU&ab_channel=CircleStudio)
+[Video Introduction](https://www.youtube.com/watch?v=Zg2zSBpEYaU&ab_channel=CircleStudio) <br>
 [Setup Guide](https://youtu.be/Fd_JhfacgS0)
 
 
