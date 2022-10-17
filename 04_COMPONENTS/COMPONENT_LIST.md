@@ -35,6 +35,6 @@ Tube material types in order of preference:
 
 * Momentary Push Button Switch SPST - Option 1 - Amazon [Example link](https://a.co/d/9fXicy8)
 * Momentary Push Button Switch Metal Chassis - Option 2 with light - Amazon [Example link](https://a.co/d/cJvIqA9)
-* Momentary Push Button Switch - Option 3 - AliExpress [Example link](https://a.co/d/cJvIqA9](https://www.aliexpress.com/item/1005004340919460.html?spm=a2g0o.productlist.0.0.113a7ea7YtMP4K&algo_pvid=727d8aa9-8421-46aa-b1e0-91d0a4b8a2f1&algo_exp_id=727d8aa9-8421-46aa-b1e0-91d0a4b8a2f1-3&pdp_ext_f=%7B%22sku_id%22%3A%2212000028823688855%22%7D&pdp_npi=2%40dis%21AUD%213.4%212.56%21%21%212.93%21%21%40210318b916660003287707660ed152%2112000028823688855%21sea&curPageLogUid=fpeah5k7bifE)
+* Momentary Push Button Switch - Option 3 - AliExpress [Example link](https://aliexpi.com/4wl8)
 
 
