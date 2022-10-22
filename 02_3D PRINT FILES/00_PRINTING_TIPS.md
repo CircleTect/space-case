@@ -9,5 +9,4 @@
 ### Print Settings
 
 * Print with 'standard' settings in PLA or PETG for most parts: 0.2mm layer height is fine. 
-* Some parts may require more strength, e.g. the 'FOOT' part requires more wall layers (at least 3). 
-* Always print without supports. Print flat-side of the part on the bed. 
+* Some parts may require more strength, e.g. the 'FOOT' part requires more wall layers (at least 3).
