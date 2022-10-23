@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.0.2
+
+### Improvements
+- Major improvement to pipe joints allowing tensioning of the shorter rods, creating a more solid frame.
+- Minor adjustment to IO panel brackets to account for slight modification of the above pipejoints.  
+
 ## v1.0.1
 
 ### Added
