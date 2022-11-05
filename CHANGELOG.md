@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.0.3
+
+### Added
+- 4-Slot GPU support. 
+- Requires native 'short tube' length of 238mm, or 3-Slot 218mm tubes with 3d printable extenders.
+
+### Improvements
+- Fixed a screw hole size issue on the IO panels. 
+- Improved 2.5" drive caddy design. 
+
 ## v1.0.2
 
 ### Improvements
