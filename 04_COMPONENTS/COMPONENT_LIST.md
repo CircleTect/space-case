@@ -3,7 +3,8 @@
 #### - Design requirements
 
 * "Long tube" - 12mm OD - 380MM **QTY 4**
-* "Short tube" -  12mm OD - 218mm **QTY 4**
+* "Short tube for 3-Slot build" -  12mm OD - 218mm **QTY 4** (NOTE: extendable to 4-slot length with addition of extender printed parts)
+* "Short tube for 4-Slot build native" - 12mm OD - 238mm **QTY 4**
 
 #### - Tube material types
 
