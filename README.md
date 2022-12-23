@@ -46,6 +46,7 @@ It features:
 Check the [changelog](CHANGELOG.md) for latest changes. 
 
 [Build Setup Guide](https://youtu.be/Fd_JhfacgS0)
+
 [Assembly Guide Part 1](https://youtu.be/junsv9OFG80)
 
 * Step 1: Decide on 3-Slot or 4-Slot build. Source components. Component list is [here.](04_COMPONENTS/COMPONENT_LIST.md) 
