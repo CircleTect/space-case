@@ -21,7 +21,9 @@ The Space Case is a mini-itx case that is easy to build at home with a 3d printe
 
 [Video Introduction](https://www.youtube.com/watch?v=Zg2zSBpEYaU&ab_channel=CircleStudio)
 
-[Setup Guide](https://youtu.be/Fd_JhfacgS0)
+[Build Setup Guide](https://youtu.be/Fd_JhfacgS0)
+
+[Assembly Guide Part 1](https://youtu.be/junsv9OFG80)
 
 
 It features:
@@ -43,12 +45,13 @@ It features:
 **NOTE: The design is currently in beta testing. Be prepared to tinker.**   
 Check the [changelog](CHANGELOG.md) for latest changes. 
 
-[Setup Guide](https://youtu.be/Fd_JhfacgS0)
+[Build Setup Guide](https://youtu.be/Fd_JhfacgS0)
+[Assembly Guide Part 1](https://youtu.be/junsv9OFG80)
 
 * Step 1: Decide on 3-Slot or 4-Slot build. Source components. Component list is [here.](04_COMPONENTS/COMPONENT_LIST.md) 
 * Step 2: Print the [parts.](02_3D%20PRINT%20FILES/) 
 * Step 3: (Optional) Source laser cut panels using [these cut files.](03_LASER%20CUT%20FILES/)
-* Step 4: Assemble. Guide coming soon. 
+* Step 4: Assemble using [this guide.](https://youtu.be/junsv9OFG80) 
 * Step 5: Enjoy your new case!
 
 </br>
