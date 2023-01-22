@@ -29,8 +29,8 @@ Tube material types in order of preference:
 
 ## 03. I/O Panels
 
-* Standard USB 2 'Cheap eBay #1' I/O: 2 x USB A 2.0, Audio in - Audio out [Example link](https://www.ebay.com.au/itm/385105460696?mkcid=16&mkevt=1&mkrid=705-154756-20017-0&ssspo=t3gvi9virg6&sssrc=2047675&ssuid=ve_wgjvYRiW&widget_ver=artemis&media=COPY)
-* Standard USB 3 'Cheap eBay #2' I/O: 2 x USB A 3.0, Audio in - Audio out [Example link](https://www.ebay.com.au/itm/224887554100?mkcid=16&mkevt=1&mkrid=705-154756-20017-0&ssspo=5g9LL4MwRUa&sssrc=2047675&ssuid=ve_wgjvYRiW&widget_ver=artemis&media=COPY)
+* Standard USB 2 'Cheap eBay #1' I/O: 2 x USB A 2.0, Audio in - Audio out [Example link](https://www.ebay.com.au/itm/385105460696?mkcid=16&mkevt=1&mkrid=705-154756-20017-0&ssspo=t3gvi9virg6&sssrc=2047675&ssuid=ve_wgjvYRiW&widget_ver=artemis&media=COPY) TESTED AND WORKING
+* Standard USB 3 'Cheap eBay #2' I/O: 2 x USB A 3.0, Audio in - Audio out [Example link](https://www.ebay.com.au/itm/224887554100?mkcid=16&mkevt=1&mkrid=705-154756-20017-0&ssspo=5g9LL4MwRUa&sssrc=2047675&ssuid=ve_wgjvYRiW&widget_ver=artemis&media=COPY) TESTED - NOT WORKING WITH EXISTING 3D PRINTED PARTS, will need some modification. 
 
 ## 04. Power switch
 
